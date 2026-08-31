@@ -1,0 +1,38 @@
+[
+  {
+    "titulo": "Conejos en el Huerto",
+    "editorial": "Bureau de Juegos",
+    "anio": 2020,
+    "jugadoresMin": 2,
+    "jugadoresMax": 4,
+    "categorias": ["Familiar", "Estrategia"],
+    "disponible": true
+  },
+  {
+    "titulo": "TEG (Táctica y Estrategia de Guerra)",
+    "editorial": "Yetem",
+    "anio": 1976,
+    "jugadoresMin": 2,
+    "jugadoresMax": 6,
+    "categorias": ["Estrategia", "Dados", "Control de Área"],
+    "disponible": true
+  },
+  {
+    "titulo": "Cultivos Mutantes",
+    "editorial": "El Dragon Azul",
+    "anio": 2016,
+    "jugadoresMin": 2,
+    "jugadoresMax": 4,
+    "categorias": ["Gestión de Recursos", "Cartas"],
+    "disponible": false
+  },
+  {
+    "titulo": "Mundialitis",
+    "editorial": "Maldón",
+    "anio": 2018,
+    "jugadoresMin": 2,
+    "jugadoresMax": 8,
+    "categorias": ["Trivia", "Deportes", "Party"],
+    "disponible": true
+  }
+]

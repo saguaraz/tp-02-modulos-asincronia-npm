@@ -1,0 +1,27 @@
+CATÁLOGO DE JUEGOS DE MESA
+==========================
+Cantidad de juegos: 4
+
+1. Conejos en el Huerto
+   Editorial y año: Bureau de Juegos (2020)
+   Participantes: 2 a 4 jugadores
+   Categorías: Familiar, Estrategia
+   Estado: Disponible
+
+2. TEG (Táctica y Estrategia de Guerra)
+   Editorial y año: Yetem (1976)
+   Participantes: 2 a 6 jugadores
+   Categorías: Estrategia, Dados, Control de Área
+   Estado: Disponible
+
+3. Cultivos Mutantes
+   Editorial y año: El Dragon Azul (2016)
+   Participantes: 2 a 4 jugadores
+   Categorías: Gestión de Recursos, Cartas
+   Estado: No disponible
+
+4. Mundialitis
+   Editorial y año: Maldón (2018)
+   Participantes: 2 a 8 jugadores
+   Categorías: Trivia, Deportes, Party
+   Estado: Disponible
